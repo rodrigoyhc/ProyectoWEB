@@ -548,3 +548,9 @@ h1,h2,h3{
         .elemts{
             align-items: center;
         }
+
+        .carro{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}

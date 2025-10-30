@@ -205,3 +205,9 @@
         align-items: center; /* Centra los controles */
     }
 }
+
+.carro{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
