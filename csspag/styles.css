@@ -585,3 +585,8 @@ h1,h2,h3{
         overflow-y: hidden; /* Ya no necesitamos el scroll aquí */
     }
 }
+
+.carro{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
